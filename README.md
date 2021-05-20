@@ -1,8 +1,8 @@
 # Melbourne real estate history in 2017
 ## Contents
 1. [Installation](#Installation)
-2. [Project motivation](#Project motivation)
-3. [Notebooks description](#Notebooks description)
+2. [Project motivation](#project motivation)
+3. [Notebooks description](#notebooks description)
 4. [Results](#Results)
 5. [Licensing](#Licensing)
 -------------------------------------------------------------------------------------------------------------------------------------------
