@@ -20,8 +20,7 @@ There is **3 main questions** for my notebooks: each main questions have several
 
 ### Results:
 Question 1 - For those area which had traded frequency, the average property price is lower. On the other hand, less frequency area has higher average price.
-
-![**higher frequency Council areas and average Price**](https://github.com/yayuchen/melbourne_housing/blob/main/images/region%20and%20price.png?raw=True)
+[**Higher frequency Council areas and average Price**](https://github.com/yayuchen/melbourne_housing/blob/main/images/region%20and%20price.png?raw=True)
 
 Question 2 - 
 
