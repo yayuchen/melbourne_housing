@@ -1,7 +1,7 @@
 # Melbourne real estate history in 2017
 ## Contents
 1. [Installation](#Installation)
-2. [Project motivation](#Project motivation)
+2. [Motivation](#Motivation)
 3. [Notebooks description](#Notebooks description)
 4. [Results](#Results)
 5. [Licensing](#Licensing)
@@ -9,7 +9,7 @@
 ### Installation:
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
 
-### Project motivation:
+### Motivation:
 According to Snapshot of Tony Pino's Melbourne Housing Dataset in 2017 to have a look at Melbourne real estate history records. For anyone like me who want to stay and live long term in Melbourne, owning a property could be a essential move to consider. Researching and studying real estate history could help to understand the trend of market, also it could provide me insights from data which might be valueable.
 
 ### Notebooks description:
