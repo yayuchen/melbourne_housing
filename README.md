@@ -14,12 +14,14 @@ According to **Snapshot of Tony Pino's Melbourne Housing Dataset in 2017** to ha
 
 ### Notebooks:
 There is **3 main questions** for my notebooks: each main questions have several sub questions for my findings.
-1. [**Understand the area distribution and pattern**]() - checking which area has more traded records.
-2. [**According to question 1 to analysis property types distribution**]() - which type of property has more records.
-3. [**Based on my own requirement to find out and recommend myself wwhich area I should consider**]().
+1. [**Understand the area distribution and pattern**](https://nbviewer.jupyter.org/github/yayuchen/melbourne_housing/blob/main/Area_distribution.ipynb#2) - checking which area has more traded records.
+2. [**According to question 1 to analysis property types distribution**](https://nbviewer.jupyter.org/github/yayuchen/melbourne_housing/blob/main/Property_TYPE.ipynb#1) - which type of property has more records.
+3. [**Based on my own requirement to find out and recommend myself which area I should consider**](https://nbviewer.jupyter.org/github/yayuchen/melbourne_housing/blob/main/Recommend.ipynb).
 
 ### Results:
-All the finding can be found on this post.
+Question 1 - For those area which had traded frequency, the average property price is lower. On the other hand, less frequency area has higher average price.
+
+Question 2 - 
 
 ### Licensing:
 You can find the Licensing for the data and other descriptive information at this [**Kaggle link**](https://www.kaggle.com/dansbecker/melbourne-housing-snapshot). Otherwise, feel free to use the code here as you would like!
