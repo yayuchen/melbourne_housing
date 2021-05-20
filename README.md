@@ -14,9 +14,9 @@ According to **Snapshot of Tony Pino's Melbourne Housing Dataset in 2017** to ha
 
 ### Notebooks:
 There is **3 main questions** for my notebooks: each main questions have several sub questions for my findings.
-1. **Understand the area distribution and pattern** - checking which area has more traded records.
-2. **According to question 1 to analysis property types distribution** - which type of property has more records.
-3. **Based on my own requirement to find out and recommend myself wwhich area I should consider**.
+1. [**Understand the area distribution and pattern**]() - checking which area has more traded records.
+2. [**According to question 1 to analysis property types distribution**]() - which type of property has more records.
+3. [**Based on my own requirement to find out and recommend myself wwhich area I should consider**]().
 
 ### Results:
 All the finding can be found on this post.
