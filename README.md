@@ -1,10 +1,10 @@
 # Melbourne real estate history in 2017
 ## Contents
-1. Installation(#Installation)
-2. Project motivation(#Project motivation)
-3. Notebooks description(#Notebooks description)
-4. Results(#Results)
-5. Licensing(#Licensing)
+1. [Installation](#Installation)
+2. [Project motivation](#Project motivation)
+3. [Notebooks description](#Notebooks description)
+4. [Results](#Results)
+5. [Licensing](#Licensing)
 -------------------------------------------------------------------------------------------------------------------------------------------
 ### Installation:
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
