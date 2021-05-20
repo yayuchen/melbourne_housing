@@ -22,4 +22,4 @@ There is **3 main questions** for my notebooks: each main questions have several
 All the finding can be found on this post.
 
 ### Licensing:
-You can find the Licensing for the data and other descriptive information at the [**Kaggle link**](https://www.kaggle.com/dansbecker/melbourne-housing-snapshot). Otherwise, feel free to use the code here as you would like!
+You can find the Licensing for the data and other descriptive information at this [**Kaggle link**](https://www.kaggle.com/dansbecker/melbourne-housing-snapshot). Otherwise, feel free to use the code here as you would like!
