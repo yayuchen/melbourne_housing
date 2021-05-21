@@ -33,7 +33,7 @@ There is **3 main questions** for my notebooks: each main questions have several
 **Numerical data analysis** 
 ![numerical data](https://github.com/yayuchen/melbourne_housing/blob/main/images/numerical%20data.png?raw=True)
 
-**Question 3** - In less 1 million subset, **MORELAND, MARIBYRNONG, BOROONDARA and GLEN EIRA** has the lowest Price property. **WYNDHAN, STONNINGTON, PORT PHILLIP and HUME** has the median Price which is less than $600000. The lowest price Type is **U**, **SOUTHERN, WESTERN and NORTHERN** has lower median value than other Council area. For Distance less than 10 subset, there is more **U** types, only **MELBOURNE and YARRA** are no further than 5.
+**Question 3** - In less 1 million subset, **MORELAND, MARIBYRNONG, BOROONDARA and GLEN EIRA** has the lowest Price property. **WYNDHAN, STONNINGTON, PORT PHILLIP and HUME** has the median Price which is less than $600000. The lowest price Type is **U**. For Distance less than 10 subset, there is more **U** types, only **MELBOURNE and YARRA** are no further than 5.
 
 **Price distribution by Council area and median Price** ![group plot](https://github.com/yayuchen/melbourne_housing/blob/main/images/group%20data.png?raw=True)
 
