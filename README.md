@@ -10,7 +10,7 @@
 There should be no necessary libraries to run the code here beyond the **Anaconda distribution of Python**. The code should run with no issues using **Python versions 3.***.
 
 ### Motivation:
-According to **Snapshot of Tony Pino's Melbourne Housing Dataset in 2017** to have a look at Melbourne real estate history records. For anyone like me who want to stay and live long term in Melbourne, owning a property could be a essential move to consider. Researching and studying real estate history could help to understand the trend of market, also it could provide me insights from data which might be valueable. Free to have a look at the origin dataset [here](https://www.kaggle.com/dansbecker/melbourne-housing-snapshot).
+According to **Snapshot of Tony Pino's Melbourne Housing Dataset in 2017** to have a look at Melbourne real estate history records. For anyone like me who want to stay and live long term in Melbourne, owning a property could be a essential move to consider. Researching and studying real estate history could help to understand the trend of market, also it could provide me insights from data which might be valueable. Free to have a look at the origin dataset [**here**](https://www.kaggle.com/dansbecker/melbourne-housing-snapshot).
 
 ### Notebooks:
 There is **3 main questions** for my notebooks: each main questions have several sub questions for my findings.
