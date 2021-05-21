@@ -27,11 +27,8 @@ There is **3 main questions** for my notebooks: each main questions have several
 
 **Question 2** - In entire dataset, **H** type of property has the highest percentage. In **higher frequency Councils**, the percentage of **H** is slightly less than the other subset, but the other types are slightly higher. Between 2 subsets there are different features: Higher frequency Council area has more rooms, bathrooms and car spots, the property built year is older, but this subset is **closer** to CBD.
 
-**Entire Type data distribution** 
-![type distribution](https://github.com/yayuchen/melbourne_housing/blob/main/images/type%20distribution.png?raw=True)
-
-**Difference of Type percentage** 
-![difference type](https://github.com/yayuchen/melbourne_housing/blob/main/images/subset%20type%20distribution.png?raw=True)
+**Entire Type data distribution and subset difference** 
+![type and difference distribution](https://github.com/yayuchen/melbourne_housing/blob/main/images/total%20and%20difference.png?raw=True)
 
 **Numerical data analysis** 
 ![numerical data](https://github.com/yayuchen/melbourne_housing/blob/main/images/numerical%20data.png?raw=True)
