@@ -41,7 +41,7 @@ There is **3 main questions** for my notebooks: each main questions have several
 
 **Distance distribution of Council area** ![council distance](https://github.com/yayuchen/melbourne_housing/blob/main/images/closer%20council.png?raw=True)
 
-**All findings can be found in this post.**
+**All findings can be found in this [post](https://yayuchen1023.medium.com/how-should-i-recommend-myself-411b641c9471).**
 
 ### Licensing:
 You can find the Licensing for the data and other descriptive information at this [**Kaggle link**](https://www.kaggle.com/dansbecker/melbourne-housing-snapshot). Otherwise, feel free to use the code here as you would like!
